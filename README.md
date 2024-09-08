@@ -8,7 +8,7 @@ I work with a large amount of TOML files that are frequently edited by various p
 
 **Expanded Form**
 
-```
+```toml
 [[contacts]]
 name = "Bob John"
 address = "123 Example St"
@@ -22,13 +22,13 @@ In many cases, I would prefer the array to be reduced to a inline assignment, or
 
 **Inline Assignment**
 
-```
+```toml
 contacts = [{name = "Bob John", address = "123 Example St"}, {name = "Alice Sally", address = "456 Example Dr"}]
 ```
 
 **Compact Form**
 
-```
+```toml
 contacts = [
     {name = "Bob John", address = "123 Example St"},
     {name = "Alice Sally", address = "456 Example Dr"},
