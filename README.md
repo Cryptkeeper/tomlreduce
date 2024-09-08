@@ -1,6 +1,6 @@
 # tomlreduce
 
-A tool for reducing TOML data into its compacted format.
+A tool for reducing TOML data into a compacted syntax format.
 
 ## Motivation
 
@@ -31,7 +31,7 @@ contacts = [{name = "Bob John", address = "123 Example St"}, {name = "Alice Sall
 ```
 contacts = [
     {name = "Bob John", address = "123 Example St"},
-    {name = "Alice Sally", address = "456 Example Dr"}
+    {name = "Alice Sally", address = "456 Example Dr"},
 ]
 ```
 
@@ -39,7 +39,7 @@ tomlreduce achieves this by loading the TOML data using [tomlc99](https://github
 
 ## Disclaimer
 
-You should probably not use this. I use this tool daily for various workflows, but it isn't a "fully supported" formatter and it may unexpectedly rewrite or corrupt your TOML files. This tool serves a purpose, but it is something which should instead be offered natively by formatting tools instead. In summary: it works, but it probably is less of a solution and more of a fun project.
+You should probably not use this. I use this tool daily for various workflows, but it isn't a "fully supported" formatter and it may unexpectedly rewrite or corrupt your TOML files. This tool serves a purpose, but it is something which should instead be offered natively by formatting tools. In summary: it works, but it probably is less of a solution and more of a fun project.
 
 ## Compiling
 
