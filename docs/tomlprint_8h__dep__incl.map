@@ -1,0 +1,12 @@
+<map id="tomlprint.h" name="tomlprint.h">
+<area shape="rect" id="Node000001" title="High&#45;level API for printing formatted TOML structures to a stream." alt="" coords="108,5,190,31"/>
+<area shape="rect" id="Node000002" href="$filestream_8h.html" title="API for wrapping a file as a TOML print stream." alt="" coords="21,79,111,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,44,82,81,78,77,121,39"/>
+<area shape="rect" id="Node000004" href="$main_8c.html" title="The main entry point for the program." alt="" coords="118,153,179,178"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="151,47,151,152,146,152,146,47"/>
+<area shape="rect" id="Node000005" href="$tomlprint_8c.html" title="Functions for formatting and printing TOML structures to a stream." alt="" coords="186,79,268,105"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="175,40,216,77,212,81,171,43"/>
+<area shape="rect" id="Node000003" href="$filestream_8c.html" title="Implementation for wrapping a file as a TOML print stream." alt="" coords="5,153,95,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="63,120,55,153,50,152,57,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="93,113,137,150,133,154,90,117"/>
+</map>

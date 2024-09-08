@@ -1,0 +1,7 @@
+<map id="print_raw_kvp_line" name="print_raw_kvp_line">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,135,56"/>
+<area shape="rect" id="Node000002" href="$treepath_8h.html#af2efa285ce77a53b46351ec98ab66137" title="Returns a string of tabs for indentation based on the path depth." alt="" coords="193,5,306,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,32,178,26,178,31,136,37"/>
+<area shape="rect" id="Node000003" href="$tomlprint_8h.html#a6089b58955904878f667f57e5f1ec2c3" title="Prints a key&#45;value pair with a raw TOML value." alt="" coords="183,55,317,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,50,168,54,167,59,135,55"/>
+</map>

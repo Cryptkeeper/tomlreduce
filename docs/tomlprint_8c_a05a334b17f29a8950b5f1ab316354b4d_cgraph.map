@@ -1,0 +1,5 @@
+<map id="toml_print_table_header" name="toml_print_table_header">
+<area shape="rect" id="Node000001" title="Prints a TOML table header to the stream. The table name is enclosed in single square brackets." alt="" coords="5,5,165,31"/>
+<area shape="rect" id="Node000002" href="$tomlprint_8c.html#af178a50ebca90ad9e0cb2a802a1171dc" title="Prints a TOML string key to the stream. The string is enclosed in double quotes if it contains spaces..." alt="" coords="213,5,319,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,16,197,16,197,21,165,21"/>
+</map>

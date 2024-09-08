@@ -1,0 +1,14 @@
+<map id="toml_print_raw_assignment" name="toml_print_raw_assignment">
+<area shape="rect" id="Node000001" title="Prints an indented key&#45;value pair assignment where the value is a raw TOML value, such as a string,..." alt="" coords="648,55,828,80"/>
+<area shape="rect" id="Node000002" href="$tomlprint_8c.html#a4fa94a364cb5718b82ffe5596bff2116" title="Prints a TOML array block to the stream, recursively printing all elements within the array...." alt="" coords="485,29,600,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="632,56,600,52,600,47,633,51"/>
+<area shape="rect" id="Node000003" href="$tomlprint_8c.html#a8f20e2b3343beb63b9719de070cb866f" title="Prints a TOML table block to the stream, recursively printing all key&#45;value pairs within the table...." alt="" coords="324,29,437,55"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="632,76,560,76,485,70,426,58,427,53,486,65,560,70,632,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="470,54,438,53,438,48,470,48"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="453,31,485,31,485,36,453,36"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="408,16,399,10,381,8,364,10,355,15,353,20,358,28,353,30,348,21,351,11,362,5,381,3,400,5,411,12"/>
+<area shape="rect" id="Node000004" href="$tomlprint_8c.html#aab1858df44994d88aa7721b19d9d51cb" title="Recursively prints a formatted TOML table, including all nested tables and arrays to the given stream..." alt="" coords="103,29,276,55"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="308,45,277,45,277,40,308,40"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#aa06f5fbe915d0bf149dcf793acea47a1" title=" " alt="" coords="5,29,55,55"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="87,45,55,45,55,40,87,40"/>
+</map>

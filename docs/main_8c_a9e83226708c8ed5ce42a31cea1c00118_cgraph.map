@@ -1,0 +1,9 @@
+<map id="print_table_short" name="print_table_short">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,123,80"/>
+<area shape="rect" id="Node000002" href="$treepath_8h.html#af2efa285ce77a53b46351ec98ab66137" title="Returns a string of tabs for indentation based on the path depth." alt="" coords="190,5,303,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,51,180,33,182,38,115,57"/>
+<area shape="rect" id="Node000003" href="$tomlprint_8h.html#a248534810f080f353867243d77ae42cf" title="Prints a string for use as a value&#45;key, optionally quoting if the string contains quote or whitespace..." alt="" coords="174,55,319,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,65,158,65,158,70,123,70"/>
+<area shape="rect" id="Node000004" href="$tomlprint_8h.html#a55a8ba51a22bf246afb355033826e509" title="Prints the table as a single row of key&#45;value pairs inside curly braces." alt="" coords="171,104,322,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="108,78,166,97,164,102,107,83"/>
+</map>

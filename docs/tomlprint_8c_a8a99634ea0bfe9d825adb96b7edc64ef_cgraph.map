@@ -1,0 +1,5 @@
+<map id="toml_print_assignment" name="toml_print_assignment">
+<area shape="rect" id="Node000001" title="Prints a TOML key&#45;value pair assignment prefix to the stream. The key is printed followed by an equal..." alt="" coords="5,5,158,31"/>
+<area shape="rect" id="Node000002" href="$tomlprint_8c.html#af178a50ebca90ad9e0cb2a802a1171dc" title="Prints a TOML string key to the stream. The string is enclosed in double quotes if it contains spaces..." alt="" coords="206,5,312,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,16,190,16,190,21,158,21"/>
+</map>

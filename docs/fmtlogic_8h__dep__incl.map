@@ -1,0 +1,7 @@
+<map id="fmtlogic.h" name="fmtlogic.h">
+<area shape="rect" id="Node000001" title="Utility logic implementation for formatting TOML structures." alt="" coords="57,5,136,31"/>
+<area shape="rect" id="Node000002" href="$fmtlogic_8c.html" title="Utility logic for formatting TOML structures." alt="" coords="5,79,84,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,45,55,80,51,77,77,42"/>
+<area shape="rect" id="Node000003" href="$tomlprint_8c.html" title="Functions for formatting and printing TOML structures to a stream." alt="" coords="107,79,190,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="116,42,142,77,138,80,112,45"/>
+</map>

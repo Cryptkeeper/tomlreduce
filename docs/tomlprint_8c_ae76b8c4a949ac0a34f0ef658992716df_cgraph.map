@@ -1,0 +1,5 @@
+<map id="toml_print_array_header" name="toml_print_array_header">
+<area shape="rect" id="Node000001" title="Prints a TOML array header." alt="" coords="5,5,166,31"/>
+<area shape="rect" id="Node000002" href="$tomlprint_8c.html#a248534810f080f353867243d77ae42cf" title="Prints a string for use as a value&#45;key, optionally quoting if the string contains quote or whitespace..." alt="" coords="214,5,359,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,16,198,16,198,21,166,21"/>
+</map>

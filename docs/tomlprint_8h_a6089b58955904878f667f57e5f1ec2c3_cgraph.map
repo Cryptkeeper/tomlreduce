@@ -1,0 +1,9 @@
+<map id="toml_print_raw_kvp" name="toml_print_raw_kvp">
+<area shape="rect" id="Node000001" title="Prints a key&#45;value pair with a raw TOML value." alt="" coords="5,31,140,56"/>
+<area shape="rect" id="Node000002" href="$tomlprint_8c.html#a579c1f62158fbd275bd6a4e8f3373afb" title="Attempts to convert a raw TOML value into a string, integer, boolean, or double value before printing..." alt="" coords="188,5,332,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,32,173,27,174,33,141,37"/>
+<area shape="rect" id="Node000004" href="$tomlprint_8c.html#a248534810f080f353867243d77ae42cf" title="Prints a string for use as a value&#45;key, optionally quoting if the string contains quote or whitespace..." alt="" coords="188,55,333,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="141,49,173,54,172,59,140,55"/>
+<area shape="rect" id="Node000003" href="$tomlprint_8c.html#a9cccb0feaca624f7f66d4deb988b087c" title="Prints a string for use as a value, escaping characters as needed." alt="" coords="381,5,536,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="333,16,365,16,365,21,333,21"/>
+</map>

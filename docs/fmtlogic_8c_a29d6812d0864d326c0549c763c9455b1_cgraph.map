@@ -1,0 +1,12 @@
+<map id="toml_array_should_use_newline_between_elements" name="toml_array_should_use_newline_between_elements">
+<area shape="rect" id="Node000001" title="Determines if an array should use a newline between elements, or if the entire array can be printed o..." alt="" coords="5,5,194,46"/>
+<area shape="rect" id="Node000002" href="$fmtlogic_8c.html#a17b18272d48f881fa1da081aed65106b" title="Determines if an array contains only primitive values." alt="" coords="741,13,897,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,14,242,11,373,8,505,9,726,17,726,23,505,15,373,13,242,16,194,19"/>
+<area shape="rect" id="Node000003" href="$fmtlogic_8c.html#abd199b44f5f05b2b0f63abcdf00b9d0b" title="Determines if a table can be compacted into a single line, or if it should be printed in an expanded ..." alt="" coords="242,50,443,76"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,38,240,45,239,50,194,43"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="302,52,294,42,299,32,315,26,342,24,373,26,387,33,385,38,371,31,342,29,317,31,303,36,300,41,306,48"/>
+<area shape="rect" id="Node000004" href="$fmtlogic_8c.html#a02eca89e3f243ce4df127272f8fd6bb8" title="Determines if an array can be compacted into its curly bracket form, or if it should be printed in an..." alt="" coords="491,50,693,76"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="443,69,476,69,476,75,443,75"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="674,47,726,38,727,44,675,52"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="491,57,459,57,459,51,491,51"/>
+</map>

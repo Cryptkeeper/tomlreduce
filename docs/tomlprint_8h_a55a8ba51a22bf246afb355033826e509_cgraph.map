@@ -1,0 +1,16 @@
+<map id="toml_print_table_value_inline" name="toml_print_table_value_inline">
+<area shape="rect" id="Node000001" title="Prints the table as a single row of key&#45;value pairs inside curly braces." alt="" coords="5,35,157,75"/>
+<area shape="rect" id="Node000002" href="$tomlprint_8c.html#a6216104d0b1acb2bdd2a17c6ed4cb859" title="Prints the array as a single row of values inside square brackets." alt="" coords="205,5,357,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,50,189,45,189,51,157,55"/>
+<area shape="rect" id="Node000005" href="$tomlprint_8c.html#a54dc923536e5ac087901aaa25c7e832d" title="Prints a key&#45;value pair with a raw TOML value." alt="" coords="214,70,348,96"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="157,63,198,69,198,74,156,68"/>
+<area shape="rect" id="Node000006" href="$tomlprint_8c.html#a248534810f080f353867243d77ae42cf" title="Prints a string for use as a value&#45;key, optionally quoting if the string contains quote or whitespace..." alt="" coords="405,96,550,121"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="120,73,160,92,205,106,252,113,300,116,389,115,390,120,300,121,251,118,204,111,158,97,118,78"/>
+<area shape="poly" id="edge4_Node000002_Node000001" title=" " alt="" coords="205,31,172,35,172,30,204,25"/>
+<area shape="rect" id="Node000003" href="$tomlprint_8c.html#a579c1f62158fbd275bd6a4e8f3373afb" title="Attempts to convert a raw TOML value into a string, integer, boolean, or double value before printing..." alt="" coords="406,46,550,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="358,36,391,42,390,47,357,41"/>
+<area shape="rect" id="Node000004" href="$tomlprint_8c.html#a9cccb0feaca624f7f66d4deb988b087c" title="Prints a string for use as a value, escaping characters as needed." alt="" coords="598,46,754,72"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="550,56,583,56,583,62,550,62"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="348,72,390,67,390,72,349,77"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="349,89,390,94,389,100,348,94"/>
+</map>

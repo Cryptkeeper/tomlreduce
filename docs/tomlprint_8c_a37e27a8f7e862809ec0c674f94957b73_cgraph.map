@@ -1,0 +1,7 @@
+<map id="toml_print_raw_value" name="toml_print_raw_value">
+<area shape="rect" id="Node000001" title="Prints a TOML raw value to the stream, determining the type of the value and printing it accordingly." alt="" coords="5,31,150,56"/>
+<area shape="rect" id="Node000002" href="$tomlprint_8c.html#ae223acea20e0d6188ea587492c14686e" title="Prints a TOML double value to the stream, using the default float format specifier...." alt="" coords="198,5,359,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,32,182,28,182,33,150,37"/>
+<area shape="rect" id="Node000003" href="$tomlprint_8c.html#a7cb2ad795586fbf1a406dc513c323027" title="Prints a TOML string value to the stream, escaping special characters as necessary and always enclosi..." alt="" coords="201,55,356,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="150,49,186,54,185,59,149,55"/>
+</map>

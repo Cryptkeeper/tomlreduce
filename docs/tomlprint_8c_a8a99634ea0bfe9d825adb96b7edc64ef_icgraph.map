@@ -1,0 +1,31 @@
+<map id="toml_print_assignment" name="toml_print_assignment">
+<area shape="rect" id="Node000001" title="Prints a TOML key&#45;value pair assignment prefix to the stream. The key is printed followed by an equal..." alt="" coords="921,97,1073,123"/>
+<area shape="rect" id="Node000002" href="$tomlprint_8c.html#ae1a5406a60237ade7bc238970763d8e7" title="Prints an indented key&#45;value pair assignment where the value is a TOML array which can be inline prin..." alt="" coords="485,56,674,82"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="905,101,873,97,673,79,674,73,873,92,906,95"/>
+<area shape="rect" id="Node000007" href="$tomlprint_8c.html#a1633dda5e9b0154279be2e6a3867ee91" title="Prints an indented key&#45;value pair assignment where the value is a raw TOML value, such as a string,..." alt="" coords="489,5,670,31"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="946,94,872,71,767,49,669,33,670,27,768,44,874,66,948,89"/>
+<area shape="rect" id="Node000008" href="$tomlprint_8c.html#a13bdad4ddd69f173eb08b871f5a968cc" title="Prints an indented key&#45;value pair assignment where the value is a TOML table which can be inline prin..." alt="" coords="486,195,673,220"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="968,135,925,162,874,185,823,198,771,206,674,212,673,207,771,201,822,192,872,180,922,157,965,130"/>
+<area shape="rect" id="Node000009" href="$tomlprint_8c.html#ab56af75f5ca68f415c338c5466c499ee" title="Prints a key&#45;value pair assignment where the value is a table which can be inline printed...." alt="" coords="722,130,873,170"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="916,129,874,138,873,132,914,124"/>
+<area shape="rect" id="Node000003" href="$tomlprint_8c.html#a8f20e2b3343beb63b9719de070cb866f" title="Prints a TOML table block to the stream, recursively printing all key&#45;value pairs within the table...." alt="" coords="324,68,437,94"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="470,78,438,80,438,75,470,73"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="413,55,402,49,381,47,361,49,350,53,348,59,353,66,349,69,342,59,346,50,359,44,381,41,404,44,416,50"/>
+<area shape="rect" id="Node000004" href="$tomlprint_8c.html#a4fa94a364cb5718b82ffe5596bff2116" title="Prints a TOML array block to the stream, recursively printing all elements within the array...." alt="" coords="132,43,246,68"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="308,83,233,72,234,66,309,77"/>
+<area shape="rect" id="Node000005" href="$tomlprint_8c.html#aab1858df44994d88aa7721b19d9d51cb" title="Recursively prints a formatted TOML table, including all nested tables and arrays to the given stream..." alt="" coords="103,92,276,118"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="309,92,277,97,276,91,308,87"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="263,54,337,65,336,70,262,59"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#aa06f5fbe915d0bf149dcf793acea47a1" title=" " alt="" coords="5,92,55,118"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="87,108,55,108,55,102,87,102"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="512,38,486,46,418,70,416,65,485,41,511,33"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="474,23,324,34,247,46,246,41,324,29,474,18"/>
+<area shape="poly" id="edge12_Node000008_Node000003" title=" " alt="" coords="497,191,484,184,454,164,428,139,390,96,394,92,432,136,458,160,487,180,500,186"/>
+<area shape="poly" id="edge14_Node000009_Node000002" title=" " alt="" coords="740,125,673,97,635,85,637,80,675,92,742,120"/>
+<area shape="poly" id="edge18_Node000009_Node000008" title=" " alt="" coords="707,177,632,197,630,192,706,171"/>
+<area shape="poly" id="edge19_Node000009_Node000009" title=" " alt="" coords="830,117,818,111,797,108,778,110,767,115,763,121,765,129,759,130,757,120,764,111,777,105,797,103,819,106,832,112"/>
+<area shape="rect" id="Node000010" href="$tomlprint_8c.html#aceb16f2c660073369b1a8d7dfeb9d91a" title="Prints a key&#45;value pair assignment where the value is an array which can be inline printed...." alt="" coords="503,130,656,170"/>
+<area shape="poly" id="edge15_Node000009_Node000010" title=" " alt="" coords="706,162,656,161,656,156,706,156"/>
+<area shape="poly" id="edge17_Node000010_Node000009" title=" " alt="" coords="671,139,721,139,721,144,671,144"/>
+<area shape="poly" id="edge16_Node000010_Node000010" title=" " alt="" coords="612,117,600,111,579,108,561,110,549,115,545,121,547,129,542,130,540,120,546,111,559,105,580,103,601,106,614,112"/>
+</map>

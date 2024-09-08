@@ -1,0 +1,9 @@
+<map id="toml_open_file_stream" name="toml_open_file_stream">
+<area shape="rect" id="Node000001" title="Opens a file stream for writing and wraps it in a TOML stream." alt="" coords="5,55,158,80"/>
+<area shape="rect" id="Node000002" href="$filestream_8c.html#ae795a23701dbb4e9b76a58a98fa3da42" title=" " alt="" coords="206,5,359,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,51,211,33,213,38,138,57"/>
+<area shape="rect" id="Node000003" href="$filestream_8c.html#ae3784865ca5c85e1e3e13f3f20f83ecf" title=" " alt="" coords="208,55,357,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,65,192,65,192,70,158,70"/>
+<area shape="rect" id="Node000004" href="$filestream_8c.html#ad8679e3932a4023b663866ea5b94cdbf" title=" " alt="" coords="208,104,357,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="138,78,213,97,211,102,136,84"/>
+</map>

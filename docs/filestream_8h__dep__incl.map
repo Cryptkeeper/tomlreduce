@@ -1,0 +1,7 @@
+<map id="filestream.h" name="filestream.h">
+<area shape="rect" id="Node000001" title="API for wrapping a file as a TOML print stream." alt="" coords="55,5,144,31"/>
+<area shape="rect" id="Node000002" href="$filestream_8c.html" title="Implementation for wrapping a file as a TOML print stream." alt="" coords="5,79,95,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,45,61,80,56,77,80,42"/>
+<area shape="rect" id="Node000003" href="$main_8c.html" title="The main entry point for the program." alt="" coords="118,79,179,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="118,42,143,77,138,80,114,45"/>
+</map>

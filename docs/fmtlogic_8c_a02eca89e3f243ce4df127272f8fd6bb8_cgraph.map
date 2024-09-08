@@ -1,0 +1,9 @@
+<map id="toml_array_can_be_compacted" name="toml_array_can_be_compacted">
+<area shape="rect" id="Node000001" title="Determines if an array can be compacted into its curly bracket form, or if it should be printed in an..." alt="" coords="5,79,208,104"/>
+<area shape="rect" id="Node000002" href="$fmtlogic_8c.html#a17b18272d48f881fa1da081aed65106b" title="Determines if an array contains only primitive values." alt="" coords="279,5,434,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,76,255,40,281,33,282,38,256,45,146,81"/>
+<area shape="rect" id="Node000003" href="$fmtlogic_8c.html#abd199b44f5f05b2b0f63abcdf00b9d0b" title="Determines if a table can be compacted into a single line, or if it should be printed in an expanded ..." alt="" coords="256,79,457,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,98,240,98,240,103,208,103"/>
+<area shape="poly" id="edge3_Node000003_Node000001" title=" " alt="" coords="255,85,223,85,223,80,255,80"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="315,80,307,70,312,60,329,54,356,52,387,55,403,62,400,67,386,60,356,57,330,59,315,64,312,69,319,77"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="toml_print_raw_kvp" name="toml_print_raw_kvp">
+<area shape="rect" id="Node000001" title="Prints a key&#45;value pair with a raw TOML value." alt="" coords="504,55,639,80"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#ade2fd6401c85191e78dd2705157e6f4d" title=" " alt="" coords="327,55,456,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="488,70,457,70,457,65,488,65"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#aeb794d07e448e4f6dc0b048608ad8936" title=" " alt="" coords="167,55,279,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="311,70,279,70,279,65,311,65"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="250,42,241,36,223,33,206,35,197,40,195,45,200,53,195,56,190,46,193,36,205,30,223,28,242,31,253,37"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#aa06f5fbe915d0bf149dcf793acea47a1" title=" " alt="" coords="37,5,87,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="163,52,86,28,88,23,165,47"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a37a345c2814ead7c679ad64ca3f61231" title=" " alt="" coords="5,55,119,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="151,79,119,79,119,73,151,74"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="134,56,166,56,166,62,134,61"/>
+</map>
