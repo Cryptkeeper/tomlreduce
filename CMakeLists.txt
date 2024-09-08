@@ -14,3 +14,5 @@ add_executable(tomlreduce main.c tomlprint.h tomlprint.c fmtlogic.h fmtlogic.c f
 
 target_include_directories(tomlreduce PRIVATE dep)
 target_link_libraries(tomlreduce tomlc99)
+
+install(TARGETS tomlreduce DESTINATION bin)

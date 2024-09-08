@@ -44,9 +44,11 @@ You should probably not use this. I use this tool daily for various workflows, b
 ## Compiling
 
 1. Clone the repository and its dependency submodules using `git clone --recursive https://github.com/Cryptkeeper/tomlreduce`
-2. Build the project using CMake: `cmake -B build`
-3. Compile the project using `cmake --build build`
-4. Your `tomlreduce` binary is available at `build/tomlreduce`
+2. `cd tomlreduce`
+3. Build the project using CMake: `cmake -B build`
+4. Compile the project using `cmake --build build`
+5. Your `tomlreduce` binary is available at `build/tomlreduce`
+6. Optionally install the binary your path using `cd build && make install`
 
 ## Usage
 
