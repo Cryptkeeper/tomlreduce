@@ -10,24 +10,27 @@
 /// @brief Determines if a table can be compacted into a single line, or if it
 /// should be printed in an expanded square bracket form.
 /// @param tab The table to check.
-/// @param checkStringLength If true, check the length of strings in the table
+/// @param depth The current indent depth of the table.
+/// @param checkStringLength If true, check the length of strings in the table.
 /// for wrapping, otherwise string value length is ignored.
 /// @return true if the table can be compacted, false otherwise.
-bool toml_table_can_be_compacted(const toml_table_t* tab,
+bool toml_table_can_be_compacted(const toml_table_t* tab, int depth,
                                  bool checkStringLength);
 
 /// @brief Determines if an array can be compacted into its curly bracket form,
 /// or if it should be printed in an expanded square bracket form.
 /// @param arr The array to check.
+/// @param depth The current indent depth of the array.
 /// @return true if the array can be compacted, false otherwise.
-bool toml_array_can_be_compacted(const toml_array_t* arr);
+bool toml_array_can_be_compacted(const toml_array_t* arr, int depth);
 
 /// @brief Determines if an array should use a newline between elements, or if
 /// the entire array can be printed on a single line.
 /// @param arr The array to check.
+/// @param depth The current indent depth of the array.
 /// @return true if the array should use a newline between elements, false
 /// otherwise.
-bool toml_array_should_use_newline_between_elements(const toml_array_t* arr);
+bool toml_array_should_use_newline_between_elements(const toml_array_t* arr, int depth);
 
 /// @brief Determines if an array contains only primitive values.
 /// @param arr The array to check.

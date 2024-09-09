@@ -253,7 +253,7 @@ static void toml_print_array_assignment(const TOML* ts, const int depth,
 
   // pre-scan the array to determine if it should be printed inline
   const bool requiresNewlines =
-          toml_array_should_use_newline_between_elements(arr);
+          toml_array_should_use_newline_between_elements(arr, depth);
 
   const int size = toml_array_nelem(arr);
   for (int i = 0; i < size; i++) {
@@ -344,10 +344,10 @@ static void toml_print_table(const TOML* ts, const int depth, const char* name,
     if ((ud = (void*) toml_raw_in(tab, k)) != NULL) {
       toml_print_raw_assignment(ts, depth, k, ud);
     } else if ((ud = (void*) toml_array_in(tab, k)) != NULL) {
-      if (toml_array_can_be_compacted(ud))
+      if (toml_array_can_be_compacted(ud, depth))
         toml_print_array_assignment(ts, depth, k, ud);
     } else if ((ud = (void*) toml_table_in(tab, k)) != NULL) {
-      if (toml_table_can_be_compacted(ud, false))
+      if (toml_table_can_be_compacted(ud, depth, false))
         toml_print_table_assignment(ts, depth, k, ud);
     }
   }
@@ -364,11 +364,11 @@ static void toml_print_table(const TOML* ts, const int depth, const char* name,
 
     void* ud;
     if ((ud = (void*) toml_array_in(tab, k)) != NULL) {
-      if (toml_array_can_be_compacted(ud)) continue;
+      if (toml_array_can_be_compacted(ud, depth)) continue;
 
       toml_print_array(ts, depth + 1, child, ud);
     } else if ((ud = (void*) toml_table_in(tab, k)) != NULL) {
-      if (toml_table_can_be_compacted(ud, false)) continue;
+      if (toml_table_can_be_compacted(ud, depth, false)) continue;
 
       ts_putc(ts, '\n');
       toml_print_indent(ts, depth + 1);
