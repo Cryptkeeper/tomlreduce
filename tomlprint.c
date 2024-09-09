@@ -95,7 +95,15 @@ static void toml_print_string_value(const TOML* ts, const char* s) {
 /// @param ts The TOML stream to print to.
 /// @param d The double value to print.
 static void toml_print_double_value(const TOML* ts, const double d) {
-  ts_printf(ts, "%f", d);
+  char s[32] = {0};
+  snprintf(s, sizeof(s), "%f", d);
+  int i;
+  for (i = sizeof(s) - 1; i > 0; i--) {
+    if (s[i] && s[i] != '0') break;
+    s[i] = '\0';
+  }
+  if (s[i] == '.') s[i] = '\0';
+  ts_puts(ts, s);
 }
 
 /// @brief Prints a TOML raw value to the stream, determining the type of the
